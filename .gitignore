@@ -38,3 +38,9 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# fab output
+fab/
+
+# user folder
+user_data/
