@@ -40,7 +40,8 @@ fp-info-cache
 *.kicad_prl
 
 # fab output
-fab/
+**/fab/
 
 # user folder
 user_data/
+
